@@ -1,0 +1,2073 @@
+# CSM A+E Networks AEON
+
+ <span style="font-family: Helvetica; font-size: 14.0;">
+     #olecom
+ </span>  <span style="font-family: Helvetica; font-size: 14.0;">
+     #aeon
+ </span>  <span style="font-family: Helvetica; font-size: 14.0;">
+     #csm
+ </span> 
+
+
+# CCM in Bogotá on May 6-7 2025
+
+Talk about the archival solution proposed by OB and how they want to handle this historically. 
+
+
+
+# CCM on November 12-13 2024
+
+
+
+
+
+# CCM on July 29-30 2024
+
+
+
+## General Comments
+- [ ] Follow up connecting Emilio with Patrick Vien
+
+
+## Action Items
+
+
+## User Intelligence Presentation
+
+### Conclusions
+Include all Discovery Nets not just the main one
+Color coding for sports and news
+
+
+
+## History
+![2A71A07C-D4C3-4438-8ABE-0E22115F74D0](images/2A71A07C-D4C3-4438-8ABE-0E22115F74D0.png)
+![1049C4E3-72C3-4A4E-A431-6DEF259B0643](images/1049C4E3-72C3-4A4E-A431-6DEF259B0643.png)
+Chasing female audience might not be the best way to increase audience performance, especially when the US pipeline backs up the idea. Is there a world in which we use what we have more effectively? 
+
+Eliminating the feeds might have been a mistake seeing how Discovery’s country by country scheduling has protected them for the generalized drops in performance. 
+
+There needs to be more specific ideas and asks within the Brainstorming Points
+
+### 
+### Conclusions
+Less variety and more focus.
+IRT worth rescuing
+Make adventure work somehow in Brazil
+Best of or fan favorites for Pawn Stars instead of full old seasons
+
+
+
+## H2
+![20EEA293-1F7D-4DA0-B1A6-87CFFFD800F5](images/20EEA293-1F7D-4DA0-B1A6-87CFFFD800F5.png)
+Does it really make sense to sacrifice México performance in exchange for winning in Colombia? Are the ratings in each of these territories worth the same?
+
+
+There needs to be more specific ideas and asks within the Brainstorming Points
+
+
+### Conclusions
+Focus on the Colombia Market
+Look at History Vault programming
+
+
+
+## Lifetime
+
+### US Update
+The brand seems all over the place
+
+Octomom
+	Movie and a Series
+Gipsy Rose Continued
+Dr Pimple Popper
+
+Patrick had mentioned that A+E was producing content in Korea… could we have access to any of that?
+
+
+### LatAm Presentation
+Brainstorming concepts need to be more fleshed out in order to have a more productive discussion.
+
+
+## A&E
+
+### US Update
+Stadium Jail
+Gringo Hunter
+
+### LatAm Presentation
+![55ACA08A-DA0A-44B5-8C9E-D65FF0D760D6](images/55ACA08A-DA0A-44B5-8C9E-D65FF0D760D6.png)
+
+### Conclusions
+Rank goal of top 30, Patrick pushed for 25
+Move away from movies
+True Crime to be built out from deep library from A&E
+Police Patrol w 127hrs
+Cold Case
+Use all the First 48 Franchises and variations.
+Be a counter programmer
+
+
+## OP Brasil
+
+Looked great. Aberto para Compras is an ideal example of how we should be using these funds. 
+
+### Conclusions
+Aberto para Compras approve new season.
+
+
+## Digital
+Look into the 1yr IFOW test. 
+More rationale for the viewership behaveors not just showing us the data.
+
+
+## 
+
+
+
+
+
+
+# Talk with Lauren on April 2024
+ <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     “Karen, Diego and Lynette are the future… have never felt like it is in such good hands”
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **CCM on Nov 8 2023**
+
+ </span>
+
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Action Items for A+E Board**
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span>
+
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Action Items for CC**
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span>
+
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Action Items for Intel Dept**
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span>
+
+
+
+
+
+ <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **CCM on Apr 20, 2023**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     We need to be wary of how budget cuts will hit performance and revenue negating the positive effect of that saving. 
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![94969B6F-2A11-4CDE-9F85-4087FE88D6CD](images/94969B6F-2A11-4CDE-9F85-4087FE88D6CD.png)
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Action Items for A+E Board**
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Reopen PLA to update IFOW strategy and possible evolution into a much more efficient AVOD strategy.
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Explore taking existing A+E SVOD platforms to LatAm MVPDs as additional revenue driver.
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Explore the possibility of exploring FAST opportunities within the JV
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span>
+
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Action Items for CC**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Make comprehensive analysis of IFOW strategy across all brands, check against best practices with OI and present back to CC. 
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Life of Series Clusterf*ck
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     NCIS LA Relicense Deals and how to get out of them with Paramount
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Married at First Sight situation with Spiral
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Snapped situation with NBCU
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span>
+
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Action Items for Intel Dept**
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     US performance vs LatAm in Total Viewers over last 5yrs
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     	☐	
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Vertical vs Horizontal in LatAm looking at top 10 networks grids
+
+ </span>
+
+ <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **Content Committee Meeting on Nov 17, 2022**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Day 1**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Why are we using 25+ for Brazil?
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![C9DBF03A-9262-450C-8B5A-4A21B2409E1E](images/C9DBF03A-9262-450C-8B5A-4A21B2409E1E.png)
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+————————
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **Content Committee Meeting Jul 14, 2022**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Day 1**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Lifetime**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Better performance everywhere except Argentina. 
+Patrick went against HIP and Amores Que Engañan like they always do when it is scripted or OP that is not making them any direct money.
+We need to change to Ratings across the board instead of share.
+We need to implement the ratings per dollar exercise for all content PLA, Acquisitions and OP. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     ROI as in Lifetime should apply across the board and the scrutiny on OP including Forged should be applied. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Vikings**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     4k per episode
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **A&E**
+
+ </span>
+
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Conclusion Day**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Patrick is selling North Sea Connection to us. How did Red Election perform?
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     [NEW IRISH DRAMA NORTH SEA CONNECTION NOW FILMING IN ROUNDSTONE, CO. GALWAY – About RTÉ](https://about.rte.ie/2021/10/15/new-irish-drama-north-sea-connection-now-filming-in-roundstone-co-galway/)
+ </span>
+ <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     [Viaplay & Ireland’s RTÉ link for Mopar’s ‘North Sea Connection’ - TBI Vision](https://tbivision.com/2021/10/11/viaplay-looks-to-ireland-for-north-sea-connection/)
+ </span>
+
+
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **US Performance**
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![73370D82-BF8E-44DF-B309-FFA4601702D0](images/73370D82-BF8E-44DF-B309-FFA4601702D0.png)
+ </span>
+ <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![7B28E162-3C3B-4E1F-8A51-6A9EF7333B60](images/7B28E162-3C3B-4E1F-8A51-6A9EF7333B60.png)
+ </span>
+ <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![47FD5DF9-2116-4D74-823B-DFEC5A84D29B](images/47FD5DF9-2116-4D74-823B-DFEC5A84D29B.png)
+ </span>
+ <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![A62D38CD-3B43-46F7-8B8A-47BD36C5DEA3](images/A62D38CD-3B43-46F7-8B8A-47BD36C5DEA3.png)
+ </span>
+
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **The R Kelly Myth**
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![49AC34F8-ED69-4D96-AD20-EA813710B6F9](images/49AC34F8-ED69-4D96-AD20-EA813710B6F9.png)
+ </span>
+
+
+ 
+ <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **PLA Renewal Kickoff May 5, 2022**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Congrats on all the success in domestic. How does this translate to performance internationally outside of LatAm?
+A&E now contains CRIME, GE Celebrity Content, Investigative Reveals, AND Home & Renovation? Identity is gone again. 
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![2D0073A8-EE3E-4B26-92D0-EED48A373F26](images/2D0073A8-EE3E-4B26-92D0-EED48A373F26.png)
+ </span>
+ <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![2A854C08-6A45-4B61-8B4F-8AC9C498FDF4](images/2A854C08-6A45-4B61-8B4F-8AC9C498FDF4.png)
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+Identity and brand positioning has always been a serious issue for A&E. Both in the US off what the programming execs have shared throughout the years and definitely for us in LatAm. 
+The Most recent shift to supposedly focus entirely on crime for which we spent considerable efforts and resources to replicate in the territory now seems to be changing once again. 
+It is very complicated to maintain our ratings performance as well as clear positioning towards affiliates when this is the case. 
+This does not CREATE more value for the JV.
+Lifetime doing Crime now simply adds to this confusion. 
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![51374DF4-A73A-4E59-92BE-D7F1679EDEAF](images/51374DF4-A73A-4E59-92BE-D7F1679EDEAF.png)
+ </span>
+ <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![4FF75907-4090-4C6E-A9F6-53FCFBD062C9](images/4FF75907-4090-4C6E-A9F6-53FCFBD062C9.png)
+ </span>
+ <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![9D81FD2A-2E03-4E08-B9F9-A6D9F0537AB4](images/9D81FD2A-2E03-4E08-B9F9-A6D9F0537AB4.png)
+ </span>
+ <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![C96217E2-66EA-4867-BAC4-27D45720F509](images/C96217E2-66EA-4867-BAC4-27D45720F509.png)
+ </span>
+ <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![88A071CF-CA7B-4E40-9E8A-0F56BB2A5605](images/88A071CF-CA7B-4E40-9E8A-0F56BB2A5605.png)
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+Lifetime Unscripted 75-100hrs with global rights
+Lifetime Movies 40 titles per year 
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Maybe it is worth considering to put ALL crime on A&E and move the HomeNation content to Lifetime and have them both lean towards female audiences but a much more clear positioning to communicate to the market.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+Did the History en Español deal generate any revenue for the JV? What was received in exchange for this scheduling services. 
+10They keep playing up that they don’t X Y or Z anywhere else in the world but they also do not have the revenue that they get from LatAm anywhere else in the world either. 
+
+2000 hours concept
+	Rounding up but supposedly not holding back anything
+All one bucket… why the split
+	Allegedly to keep consistency which is not in line with the programming strategy. 
+Separating from EBU
+	If they are expecting the US to level out at 50% penetration over the next 5 yrs how are we seeing that will not be the case in LatAm? Does not feel in good faith to remove EBU at this point. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **CSM Nov 10, 2021**
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **Feedback**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Always am impressed with how this team has rolled with the punches and adapted to the changing landscape but there was always a layer of reacting to the changes as opposed to acting knowingly facing a different reality. This has been one of the most honest and insightful meetings I have seen in a while from this team.
+While I appreciated 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **Research**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Pay TV and for the first times Broadcast TV has decreased in viewership. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Brasil**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Audience is shrinking… younger demos have disappeared leaving a very high concentration of older audiences. 
+	They propose to play to our strenghts and where our audiences are 
+now. 
+Huge issue with Ancine funded productions approval timelines as well as the amount itself will force us towards acquisitions instead of original productions.
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Research**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Repetition becoming an issue. 
+Linear losing share
+Pay TV decline -10 BRA -6 MEX
+50+ and Female is most loyal in market
+Factual Category Decline -20 vs 2020
+Young Audience are gone p18-24 -41% in Mex and -71% in Bra since 2017
+Audience composition has changed on linear and we should adapt our strategy accordingly
+MSO exclusive focus on VOD services
+Fewer and stronger players challenge acquisition opportunities
+Rebirth of Production of Business / Affecting budget levels and vendor availability
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Content Strategy**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     2.1M VOD Video Views YTD total???
+
+
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **A&E**
+
+ </span>
+
+ <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **CSM Jun 24, 2021**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Research
+A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     OP continues with the influence of where A&E was oging a couple of years ago. Interesting to see how even in Colombia we are seeing social movements that make this content less ideal for the situation. 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Lifetime**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Acquisitions
+HIP from France looks great
+Really amazing job in selecting the series titles for Acq… numbers even look reasonable. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     New Content Director from Discovery got great feedback from initial digging I did with Discovery people. 
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **CSM Nov 9, 2020**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     We need clarity on ownership using formats for OP. We as partners are getting the bad side of that deal. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **A+E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Understand that Cold Case has only 7 seasons and we are on our 6th… what do we have in mind to try and retain this audience on the channel?
+
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![E3E53615-8530-4C17-85B0-5DC5C028F04A](images/E3E53615-8530-4C17-85B0-5DC5C028F04A.png)
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+
+OP
+Contraband / Lots of her talking, intrigued but quite the change in pace compared to all the other content we are seeing. 
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Lifetime**
+
+ </span>
+ <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![3CDEED45-477B-44DF-B539-A07055DD5D2D](images/3CDEED45-477B-44DF-B539-A07055DD5D2D.png)
+ </span>
+
+
+ <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **CSM July 23 2020**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Research Presentation
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Carmen, Juan María, and their corresponding network of producers is delivering excellent results. Additionally 
+
+Content Delay - Seems like we are enjoying the results of this kind of violent content as well as effectively going local, and might be getting into the same loop as domestic. Could it end the same way? Is the geopolitical delay slower? 
+
+
+S38 The TV movie package they have should not proceed. 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Great idea to have the separate link for the videos. 
+
+Washington flop is worrying. 
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **PLA Call // Jun 4, 2020 at 12:15**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     The way that this is handled is very reactive. We should not keep following the management’s pace and manner with this aspects of our business. Believe that this would be better handled if strategized by Ole moving forward. Taking into account the management’s strategy and asks but prioritizing partner relationship and effectiveness of the asks themselves. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **GENERAL**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     PLA
+2016 FR price per hour for A&E and THC is $20,750; for Lifetime it’s $13,720 and for H2 it’s $7,901; for re-runs, the price is 50% of the FR price.
+Clear difference on how productions are financed. Global perspective. Much more along the lines of Netflix and the big players seem to be aligning.
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![DCC7A016-62C2-4D65-88F2-AFE1097EA0FE](images/DCC7A016-62C2-4D65-88F2-AFE1097EA0FE.PNG)
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A+E International Team**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Patrick Vien / Head of International
+Liz Soriano / Op / Logistics / Fulfillment
+Melissa Madden / Int'l Marketing reports to Tom Lucas
+Laura Fleury / Prog Strategy International / 
+Tim Nolan / Brand Consultant / Ex Lifetime Marketing
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **PLA Call May 27, 2020 at 12:45**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Extra 500k that was included in the PLA was born as an H2 bonus that stayed in.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Reasoning was to give us the freedom to license cross-catalog.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* I remember this being part of the MG for the expanded rights. Is this not the case?
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* 500k has a credit mechanic that has not been used effectively or even returned.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * This was all born out of getting extra runs or more flexibility on that.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * PLA commitment
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **September 2019 / Bogotá**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Research**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Results are positive but once again data and metrics are inconsistent. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **NonLinear**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     IFOW strategy is necessary for relevance. The stubbornness towards this matter is distorted by HBO and A+E interests. If the PLA gives us the capacity we should do it as much as possible to extract the value of such an expensive content commitment. 
+How much revenue is YT generating?
+Promo code plan for NonLinear access to behind the wall for a limited time or to specific content. 
+HBO has become an obstacle. Paseo is causing problems. Social login incapacity is unacceptable. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Narcos/A&E PR worry from US. Can this become a limitation?
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span>
+
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **PLA**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Download rights 48-72hrs requested to board. This is necessary to stay relevant. 
+Additional requests from team to modify PLA for full stacking. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **US TEAM PRESENTATION Sep 2019**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Program Types
+Scripted
+Unscripted
+Mega-docs
+History Films
+Theme weeks
+	Alien Week (NEW)
+	Car Week
+(NEW) History’s Greatest Mysteries
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Nights of the Week
+MON**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Fan Favorites
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Pawn Stars
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Pickers
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **TUE**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Unsolved History
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Project Blue Book
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* The Curse of Oak Island
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Curse of Skinwalker Ranch
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* History’s Greatest Mysteries
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **WED**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Younger Male
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Forged in Fire
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Strongest Man
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Kings of Pain
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Eating History
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **THU**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * American Originals
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Swamp People
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Mountain Men
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Alone
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Ax Men
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **FRI**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * UFOs & The Unexplained
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Ancient Aliens
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* In Search of…
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* The UnXplained with William Shatner
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Unidentified: Inside America’s UFO Investigation
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Takeaways**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Circus / Jackass / Science and History / Big Machines / Spy Tools
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![64D125E1-C83E-4C62-9AC5-36F99F843A45](images/64D125E1-C83E-4C62-9AC5-36F99F843A45.png)
+ </span>
+
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Night of the Week
+MON**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Live Rescue
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **TUE**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Front Row Experience
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* The First 48
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Intervention
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Kids Behind Bars
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* 60 Days In
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* The Accused: Guilty or Innocent
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **WED**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Paranormal
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Ghost Hunters
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Psychic Kids
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Celebrity Ghost Stories
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **THU**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Crime & Justice
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* PD Cam
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Wanter
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **FRI**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Live PD
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **SAT**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Live PD
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **SUN**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Acquired Theatrical Films
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **TAKEAWAYS**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Completely at odds with their directions. On one side it is full on paranormal content. On the other it is police, rescue, etc. programs.
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Lifetime**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Nights of the Week
+MON**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Theatricals
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Pretty Woman
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Big Daddy
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Magic Mike XXL
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **TUE**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Big Characters / Big Talent
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Supernanny
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Little Women Franchise
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **WED**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Real Love & Relationships
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Married at First Sight franchise
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Bride & Prejudice
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* The Big Fat Wedding Walk
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **THU**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Justice for Women / Off-Net Series
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Surviving R Kelly: The Aftermath
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* King of Queens
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **FRI**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Justice for Women / Off-Net Series
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Surviving R Kelly: The Aftermath
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* King of Queens
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **SAT**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Movie Premieres + Companion Docs
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **SUN**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Movie Premieres + Companion Docs
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Movie Buckets**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * The untold stories of real women
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Ripped from the headlines
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * From Book to Screen
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * It’s a Wonderful Lifetime
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Hope & Inspiration
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **VC / A+E post CSM meeting**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     #OleCom/vcstudios
+VC is not notifying their client correctly. 
+Client claims a lack of transparency.
+They need to know what gets sent to HBO and when.
+VC hides behind Nahomi
+25 de Agosto Cablevisión Argentina no había recibido Blue Book y lo tenían como programa destacado.
+Estamos quedando muy mal ante los afiliados.
+Cesar se entera de las cosas en reuniones con HBO pero no de parte de VC
+HBO seems to be to blame as they were not technically ready to receive files under the XVOD format. A+E getting charged by HBO since last year for a functionality that has not been delivered correctly.
+Additionally HBO keeps changing aspects of the file that lead to both VC and AE spinning their wheels and wasting resources.
+VC made a Masstec update which lead to comms issues between that an Avid leading to multi week delay.
+Analog engineers are not best equipped for today’s issues and operation.
+Issues between lists of what gets sent from CCS. Laura has a dedicated person to deal with the mistakes made by caracas. XML errors, metadata errors, etc
+We have lost all time that was avail to get the library ready and now we have almost nothing. In order to catch up it would requiere an AE investment.
+We need to stop saying so openly “en Caracas la gente no vale nada” el costo es en equipos.
+CSM just concluded to increase hours and on the tech side one of the potential solutions would ve to reduce the hours below even the current level. 
+This is delaying the sale of XVOD and if they were ready to sell we would be at less than half the hours committed to.
+Metadata could be sent from US. Currently they are loading manually.
+GFX issue has gotten worse but I find VCs answer is unacceptable. 
+This is quite the blame game. There are many issues along the chain.
+Analogy was bandaids on keep going.
+Juan needs to stop complaining about how hard their job is. They need to provide solutions.
+RecordTV is software solution for metadata loading. Instead we choose to have cheap employees do it. VC should be the on get this service not the network.
+Juan mentioned they should get it and they answered that is exactly what VC is there for.
+Now Juan mentioned that to even have this integrated into ForeTV would be very costly and time consuming.
+We are we still using ForeTV.
+Tonny recommends that AE needs additional ops people to support Nahomi.
+Providers cant connect w VC. Lack of availability or no one even speaks english.
+VC is not following up with content receiving. 
+Human resource issues on both sides that are at least partly responsible for these issues.
+OP approval processes are broken. Segment 1 of Metropoli was sent by the producer weeks ago and VC has done nothing except make mistakes.
+QC has 3 days per piece of content.  After already 2-3 days to even receive it.
+Internet connections are also an issue. Bandwidth is a big issue. How can this be? MPLS is limited to 10-20mbit
+50mbps in Caracas.
+
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **March 2019 / São Paulo**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Blue Book programming strategy to be confirmed. 
+They are assuming they will have stacking capability and based on latest it is not possible.
+Pagani: Social media as a tease tool and a channel for us to build up expectation for our big premieres and events. 
+Una Idea to be funded solely by Ole Communications?
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Patrick: Liz do they know about the shows that will not be coming back?
+Liz: 
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *shakes head*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+On Air Fail
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Lifetime**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     On Air Fail
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Pre Read Notes**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     S7 Is this a positive trend general to Pay TV or is it only us?
+
+
+
+
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **A+E Monthly Content Calls February 14 2018**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     #OleCom/A+E/csm
+
+History
+Liz is on and leading the call. Corporate reshuffling and they referenced a new boss.
+Hernan performed great. Second best scripted premiere ever. Triple digit over PT avg. Second episode even higher ratings. H ranked #2 / #3 most targets and 
+Second season renewal immediately.
+Production starts in less than a month. Azteca is on board. Amazon not yet.
+Next week board meeting decision for next season. If the results and deal terms hold we should approve this swiftly.
+Advertising revenue is a huge worry.
+
+ 
+H2 is the elephant in the room. Does it make sense to keep it on life support if we do not see growth prospects in the market?
+CSM and Monthly calls need to include costs and economics that were previously avoided in these conversations. This information is essential for effective decision making in these matters even at the cost of decreasing the amount of people that participate.
+Ratings should be the metric of all linear research efforts as it is the standard and defines rankings. Only addition would be impressions so as to have a translatable metric to compare with digital performance. 
+Share should be removed from these reports and conversations as they distort the reality of our performance. 
+
+
+
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **MIPCOM 2017**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Int’l team is having constant meetings directly with management. Influencing marketing and programming efforts. This negates the consistency of what was decided in CSMs.
+In the meeting the push for licensing content in a manner that does not make sense to the JV but is economically beneficial for A+E.
+In the meeting they are talking even to the level of scheduling.
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **September 2017 / Miami**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Marathons work. Warner example.
+Pay TV growth decelerates in the market. Rating and Share both down. 
+E! used as an example of growth in the market. But their strategy or cause for this growth is not what this team is assuming. 
+Focus on feeling and brand values and how they connect with an audience, the brand and the content beyond just promoting isolated content offerings. Presented by Coletti.
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     LatAm justice position en “para quien” is a mirror of the attempt domestic did with Attn:
+Mex Arg and Col will be hurt by removal of Storage Wars… Brasil might actually be helped.
+Week Stunt promo was weak. Still an issue for us. Are we aware of this? Doing something about it?
+How will Storage Wars be phased out? Clear on usage of movies to mitigate impact but will it be cold turkey or wean the audience off the show or transition that audience over to History?
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Lifetime**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Movies need to be much more prominent to establish the Lifetime movies franchise and concept in our territory.  Especially given the success of movie channels lately as this will make our offering stand out with the exclusive titles.
+There seems to be a contradiction between the focus on younger audiences that seemingly have left cable or 35-49 sweet spot that was mentioned today. Interesting to see the transition. 
+Themed night phobia kicking in… seeing a trend of stacking (weekend) or striping (weekdays) in almost all the best performing networks. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Forged in fire needs to continue with their casting process for local adaptation. Good things take time. 
+Live talk show would be interesting for digital and the yearly peak moment could be the person of the year campaign.
+Una idea and all other in-situ initiatives like forged in fire medieval fair and a classic car show all at HistoryCon Latin America
+H2 should be relaunched. All that content will strengthen the H Flagship offering for the next landscape shift as well as feed all the digital channels of H. 
+The educational initiative for H2 seems like another great marketing initiative and set of alliances that turn into strategy instead of the other way around.
+History and H2 COMBINED are the real History brand that can evolve into an essential must carry to serve both a linear showcase network and an extensive VOD library that can include the combined depth of content tailored for someone like Juan to show mostly H2 content.
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **OP**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Brasil is on another level with storytelling. The strategy is still reactionary. In 2012 we slowed OP because we had strong A+E content and now in 2017 they want to step it up again. It seems like we react one way or the other and don’t really understand the nature of this business.
+It needs to be hyper efficient to reach levels that can be wholly sustained by the network. The other opportunities must be seen as coproductions with distributors, US Hispanic networks or A+E to mitigate risk and gain a distribution partner for other territories. 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Ole Team Conclusions** 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **A&E
+Agreed**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Justice Positioning
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Space in the market
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     	* Best to maximize A+E Catalog
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **To review**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Storage wars for History
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Born This Way and Married at First Sight to Lifetime
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Hoarders not compatible with Justice in our opinion.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Frankenstein Chronicles for History.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Are themed nights the best strategy? Marketing costs? Viewer habits?
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Stripping in top 10 networks.
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Recommendations**
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Agreed
+To review
+Recommendations**
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Lifetime**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Agreed
+To review**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Movie scheduling not maximizing their value.
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Recommendations**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Use more movies during primetime. Wed and Sat not enough. If this is a programming pillar then use it as such.
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **August 2017
+Main Areas of focus**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Programming Strategy
+	Grid Stability
+	Feed Localization
+	Counter Programming and competition strategy
+	Burst Planning
+	Seasonality
+	Dubbing / Languaging Quality
+	PLA Strategy / Utilization / Limitations
+Marketing Strategy
+	On Air deficiencies
+		Venezuela Brain Drain
+		MAX Case Study
+		Subjective Quality 
+	Marketing Budgeting and allocation by territory
+
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **MAY 2017**
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *General*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+If we align with US we are at the hope that they will be able to elevate the brands over time to have a premium perception and value when included in OTT bundles. If not revenue for the venture and the partners will be hindered considerably.
+Follow up with International Co-Pro incentive.
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Underperforming. Should follow US direction and eliminate drama. Try to get CI and Vice content to supercharge A+E. Bring it back to flagship brand status within its stronger position. Original production of formats is also worthy of jumpstarting again.
+How can we have 3 of the top 10 US Shows and perform like we are?
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![A673DA8E-E862-4947-8C1A-39AC8652F763](images/A673DA8E-E862-4947-8C1A-39AC8652F763.png)
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     It has been hard for all factual. Everywhere.
+Very Bad for history. 
+All shows eroding fast.
+Original production? At least car formats.
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Lifetime**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Growth gone. Go factual to go efficient. 
+Strengthen with FYI content.
+Original Production?
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **October 2016 Sao Paulo**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Participants
+	Ole - ENC / Juan / Abascal
+	A+E - Edward / Laura / Tom
+New format... no more reviewing what most already should know but instead focused on discussion items and open conversation about programming and brands moving forward.
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Mood video was same as MIPCOM same worries were raised and Int share them. Coletti perspective is very interesting but he is still worried that it is still impossible to synthesize the essence of the brand. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Humanity's infinite storybook / Life's Explorers.
+Rebranding for History.... first pass is Nov 30 full switch on all platforms by January. 
+The Partner needs to be licensed along with formats related to partner and profit. 
+El Chapo & Sean Penn... what happened in Argentina.
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E Discussion Points**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Crime
+Not being able to select from all buckets is completely counter-intuitive to Linear support and complete design of digital future. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History Performance Update**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Dropped in all territories except Brasil.
+Sunday drop is most telling given the solid performance we have seen there historically with Pawn Stars.
+Add New Viewers brought to network as metric to analyze programs. 
+Think beyond the live rating.... +7 etc.
+We need new KPIs to define success. This live rating and mc9 obsession is what lead to the decimation of the venture's OP efforts. Went from pioneers to small player in the field. 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **September 15 2016 / History Vault Call**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     How is vault working in the US?
+What is the plan for original/exclusive content on Vault?
+Where are we now with the H2 hours issue?
+What other words can we use to replace vault that have a similar meaning.
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **April 2016 Buenos Aires**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     There were evident communication issues that became came to light during the discussion of the video database system as well as when the discussion came up on how to create the VOD packages for the MSOs. There should be meetings prior to the committees in which the management team gets on the same page before presenting to the partners. Also ALL the management team is presenting. If the top execs are not on board or have not seen what is being presented it distorts the discussion.
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Opening Remarks**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     User Centric Company concept is clearly the new management concept. 
+Why are we still at the mercy of what the MSOs want to do or when they want to update their technologies while at the same time building their own advanced solutions for their users that will combine content from their current partners but mixed with digital brands like Netflix. On top of all this they are negotiating directly with the studios and content producers effectively eliminating the need for sub brands within their system… an MSO operated/owned Netflix if you will.
+They are asking for many things and offering very little. This with the reality that what they paid the networks in the last two decades has been almost unchanged. 
+The mentality of using other touch points to drive audiences back to cable is illogical. How much have new generations gone back to newspapers, magazines, radio?
+If we do not change our perspective to a global brand together with our partners we do not stand a chance against the competition. 
+There is NO clarity or unified vision on what is happening on this new shift towards VOD and expanded rights.
+Coletti’s presentation was good. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Lifetime**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Jane lost steam in 2016… why was it aired split with year-end?
+Distribution is still an issue… focus is on HD feeds as solution. Clearly the market is very saturated. 4 year cycle for contract renewals to happen that will include Lifetime in the HBO basic channel pack.
+Xmas movie situation limited to a specific territory? Southern hemisphere is thinking about end of school year and going to the beach… not chestnuts roasting on the open fire. 
+Front of the wall stunts cannot be done given licensing limitations… Edward says that exceptions can be made.
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **US UPDATE**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     History management change seems to be showing in the content shared in the presentation. Definitely back to basics and focused on what works.
+Pipeline looks interesting for all networks. Looking forward to seeing more at IC
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Original Production**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Focus on AdSales driven production is excellent. Would like to see how it actually becomes a reality beyond what has been done before. 
+Regarding the perspective of opening up to new partnerships it is a necessity given the high cost of production needed for maintaining the quality when compared with the US product. We need to be wary of who we partner with. 
+Hyper localized development should be more of a priority.
+The way all original productions are presented for approval must be standardized. Use PAC type ROI form or come up with a new system that includes all details regarding story/concept, prod company/creative talent involved, total production budget, investment type (license, right ownership) what are we getting, who are we sharing it with, what are we giving and what are the expectations of the return associated with the project, both economically and in press, branding etc.
+Guia Incorrecta, Os Bravos, Redes Sociales looks great
+Historia Secreta, History Drone, Accelerators, Na Trilha do Mito is looking pretty good. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Erosion is strong. Leadership position is at play.
+Promos are mostly hard to understand. This applies not only to History.
+H2 performance among History heavy viewers is troubling. Look into it.
+Very happy with localized per feed scheduling. This was an advantage our competitors had on us. Let’s see how they take advantage of this new capability.
+Look into the whole change to a global history fan page… what was the benefit we were expecting? The loss is clear.
+TedX alliance seems promising and is a good addition to the emprendedores concept. 
+Escobar OP/… 6 hours??
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **H2**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Situation w/ reruns being charged as first run is not acceptable. On top of that we are in a situation that will potentially impact our distribution once the MSOs realize that was promised to them regarding premieres and content that is different and new from History is no longer true.
+Schools are using H2 as part of their curriculum. Great promotional opportunity to bring a new younger audience that can become fans of the brand… maybe refocus the bran more in this direction especially online a la khan academy and such.
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Operations and Distribution**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Since our partner owns and controls the content that is most of what we show in LatAm we are technically in a position to offer much more than our competitors with the exception of Warner. This volume and quality of content with such flexible rights would potentially present more of a fee per brand. This would be under the concept of seeing where everyone stands with phase 1 and 2 but then hold under our sleeves a potential phase 3. 
+We need to work with the MSOs and give them whatever they want and more… creating a habit with the audience of functionality more along the lines of what is available in the US. All this while developing the technological side of how the content is delivered at the rhythm and focus of a Netflix or any other OTT that does not have another option. Once the habit is created not only in consumption but also in payment the move to a Digital Bundle could be much smoother.
+Runs situation continues w A+E. They are in a position of thinking how generous they are and the special treatment that we get and it is simply not the case when compared with all the other major content providers.
+SERIOUS op issue with A+E regarding program deliveries and processes… this is having a huge impact on our operation and in the results that are being achieved. The management does not feel that they can be held accountable for performance if these problems are not fixed. 
+Get even more dedicated feeds in exchange for the phase 2 level content.
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     All network ratings drop in Argentina. Why?
+Reasoning for the ratings issue between Argentina and Colombia in the case of A&E is a supposed explanation that when you cater to one you hurt the other. Drop in Argentina worse than gain in Colombia. 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **Nov 2015 / Miami**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     What happened in Mexico? Gravity?
+
+ </span> <span style="font-family: Helvetica; font-size: 12.0;text-align: left;">
+     ![59151211-30AF-4D24-B803-68B0CEA93559](images/59151211-30AF-4D24-B803-68B0CEA93559.png)
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+Worried about the movie quality. Last meeting was very high-end films that created mini events when combined with thematically similar content. Now they are keeping the strategy but with lower quality direct-to-tv films. 
+Get Multiplatform analysis presentation from Julya Fridman. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **H2**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Definitely should have a smaller group discussion regarding the future of H2 and whatever it is how we can be a part of it from the beginning of its planning.
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Storage Wars lost its steam. Currently being held up by NCIS. 
+A+E Net is not reaching their yearly committed amount of hours for the PLA
+Polar Star Films / 10 films… check titles. 
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Lifetime**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     We are always complaining about not having enough access to the talent for promotional purposes and in today’s meeting they offered twice and in one case we said no and in the other we were hesitant. WTF.
+Lifetime movies brand and concept is dead with the movies going to Netflix.
+Lifetime movie club for the use of this window?
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **Aug 2015 / Buenos Aires**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     TVE must go to HTML5 compatibility. No proprietary.
+The bringing up of a supposed impact in the ad sales performance for a programming is negligible both taking into account what the AdSales money represents in the total business as well as the lack of reliability when AdSales claims are made and programming adheres to it and Ad Sales almost always does not deliver on goals.
+Dubbing quality seems to be even worse than before. Analyze where the problem lies either channel or dubbing company and then push for an increase in perceived quality. Will the audience even notice?
+The deal for the jesuit is covering 60% of the total budget in exchange for LatAm all media rights. 360,000USD / 
+Sugestiones looked great and format was appealing to Sally. 
+Where are the ROI forms? Request at board level for all Original Productions as well as extraordinary acquisitions. Provide new structure on how original productions should be presented not only showing our investment but what that represents exactly inside of the total project. 
+Drone footage can become excellent stock footage.
+Unsurprising focus on Panama for original production advertainment.
+Start adding marketing spend to acquisition on original production total spend numbers.
+Additionally marketing initiatives should have their cost included in these presentations.
+H2 has become an issue given the use of those catalog hours on History. In addition to that domestic has cut back and refocused their strategy regarding H2. The temporary uncertainty with the brand domestically should be compensated somehow so as to maintain affiliate, audience and company expectations.
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **February 2015 / São Paulo**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     The participation of lower level management people creates a limitation on subjects that can be touched upon. Important matters that are necessary to go over before preparing for Board Meetings.
+Include Marketing Spend in Programming total cost.
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **November 2014 / Miami**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Competition is hitting hard with more variety in genres as well as format / more premieres per year 
+Page 14 is excellent visualization of content performance. 
+Tentpoles are delivering big time 
+Houdini diluted by simultaneous premiere 
+Output content erosion / Variety through 3rd party acquisitions as proposed solution 
+History domestic is premiering even less hours than we are.
+Our audience erosion is migrating to Discovery and Movie channels. 
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Space
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * TNT
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+New Content Balance 
+Separate Schedule stacks will reveal performance more clearly. Generate consistency. 
+Tentpoles normally a Su / Mon / Tue launch. 
+New run definition to allow different day programming in the same week between LatAm & Brasil 
+US and UK did a Media Buy upfront type event/system. They state their total investment and have the media companies bid for the money. 
+El Jesuita / What is the total budget / What are we receiving in exchange for the 100k 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **INTERNATIONAL UPDATE**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Ask Michael if this can be shared more frequently
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *American Originals*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	Mountain Men
+	Last of the Rivermen 
+	Rivermen 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Life on the Line / Powerline Workers / Alaska*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+      
+	Tree People 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Artifactual*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	Pickers / More focus on the picked characters 
+	Downeast Dickering* / More Variety 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Competition Gameshow*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	Pawnography 
+	Alaska Off Road Warriors 
+	Last Survivor 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Gearhead*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	Counting Cars 
+	Lipu and Pitbull 
+	Lost in Transmission 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Tentpole*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	Atlantis Found 
+	End of Days 
+	The Shift 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Renegades*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	Mavericks 
+	Appalachian Outlaws 
+	Gangland Undercover 
+	Secrets of the Hell’s Angels
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Mystery*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	Curse of Oak Island 
+	Curse of Superstition Mountain  
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **H2**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     At 50% distrib compared to H… Performance has kept up with Distribution growth. 
+Dedicated site was an inevitability. Great initiative. 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Very worrying performance numbers 
+After such a weak year the follow up goals cannot be so conservative. 
+Performance is reflecting Domestic performance 
+Their proposed strategy is back to basics 
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Redemption
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Crime
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Edgy / Darker
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+Se Presume Inocente Strategy is ridiculous. Mexican episode performed Pan.
+Orphan Black Binge Strategy.
+Novela Style o Stacked Programming Strategy.
+OnAir is still a serious issue.
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Big Characters/Light*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	Not so light 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Artifactual / Transactional*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	More 
+	Driving Vegas 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Crime / Redemption*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	This is were the growth will happen 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Movies / Mini Series*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	No News 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Drama Series*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	No News 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Magic*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+	NO 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Turning into social experiments*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+      
+	Married at first Sight 
+	Cul de Sac / Neighbors with Benefits 
+	Surviving Marriage 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Lifetime**
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **February 2014 / Miami**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **General**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Design and Implement Burst Plan of how the PLA works with each network.  **
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Lifetime**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Transition
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Feed Transition Chart
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Every Feed and Every Territory
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Awaiting Roadmap from Management including Content Management
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * How the different brand hybrids will behave onair
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Cost / Headcount implications of transition
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Brand Positioning
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Needs to be an intro campaign
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * A+E PLA Hours Usage 2014
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Final List of SPTI content use
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Brand positioning is off
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     History team manages the H2/Bio hybrids. 
+Define clear and complete KPIs for analysis of Original Productions 
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Ratings Performance
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * AdSales
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Press / PR
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Marketing Relevance
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Brand Positioning
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Affiliates Relevance
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Web Traffic
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Social Media Influence
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Subsequent Distribution windows and international format sales.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+History and H2 are getting blurry if History goes "back to basics"
+Series vs Serialized programming... Do we know how to handle serialized content? 
+Incomplete KPIs for production. 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **H2**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Transition 
+	Feed Transition Chart 
+	Every Feed and Every Territory 
+	Awaiting Roadmap from Management including Content Management 
+	Cost / Headcount implications of transition
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Bio**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Transition 
+	Feed Transition Chart 
+	Every Feed and Every Territory 
+	Awaiting Roadmap from Management including Content Management 
+	Cost / Headcount implications of transition 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     On Air is a huge issue. 
+	Process Issues 
+	Comm Issues 
+	Mafer?? 
+Branding positioning… why even discuss… be original should be used and we need to stop thinking we are THAT different. 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *SPI*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+CityTV Copro 
+Serious interest in Brasil 
+Frame the Ole Foton Deal with A&E Ole Networks for the Original Productions. Done, Given to Eddy in a Proposal as he requested pending follow after the Board. 
+Review the cases for SPI 2nd Season make final selection.  Carlos Abascal and Carlos E Cusco selected 8 cases. Done 
+Review Report made in Caracas by Mario Con about the On Air Channel Image. Evaluate for recommendations.  Carlos Abascal asks Mario Con to send it to see and evaluate the recommendations made by the Consultant they contracted. Has not yet arrived. Want to see how we can add. To A&E On Air communication and positioning today. 
+Review and make a content analysis with Programming and Acquisitions regarding the Content mix; Movies (Evaluate Studios vs Indies + Availability 25 to 40), Scripted Series Drama, Factual Series, Specials. Mario, Isabel Q & Sales. 
+Revised the premier planning from May to the end of the tear on the A&E channel. Implement the changes suggested by Factual Season and Scripted Season.(Suggested by Michael Katz) When is the right time during 2014 2nd half. 
+Lack of Leadership and Knowledge form Mario on first look after 2 comittees. Does he has the tools ? The structure? Is the tyranny of the distance; Buenos Aires, Caracas, Miami, New York to much? 
+The channels are working in silos. Does not seem as an integrated cross programming and promotion with in them. Having History ch in the top 5 in Mexico !!!!! Top 10 in Pan Regional. Talk about 
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *[Barker.com](http://Barker.com)*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+      
+Usage of the FR premieres hat were cancel in the States during the Word Cup / summer / Winter great for promotional stunts. Treat Word Cup as Holidays or Carnival. 
+Programming line up. If every Month especially during summer and Fall on Mex & Winter in the South. How are they going to manage the Premier season of the other General Entertainment Networks in Mexico, Brazil and Pan Regional.
+On air issues have gotten worse. 
+Exacerbating Brasil on air situation 
+Sundays are still being avoided 
+Nonexistent OP strategy 
+Brasil strategy is too focused on getting easy numbers. It is like fasting... All the weight will come back just as the p24 audience will leave. 
+It is like november never happened... I recall as agreed... 
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * NO Music
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Phase out Movies by end of year
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Focus on quality not quantity regarding series and minis
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Focus cash on securing A&E domestic scripted series.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+They need mini series desperately! 
+Switch to Lifetime is a go
+Fragmented rollout strategy. 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **Original Production KPI**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Rating 
+AdSales 
+Press Coverage 
+Affiliate Leverage 
+Web Performance 
+Brand Equity 
+Subsequent Content Sales 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **CONTENT PRE MEETING RESEARCH KIT**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Heat Charts 
+
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **November 2013 / New York**
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **BIO/LIFETIME**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     March Brand Switch / 90 Day Decision to switch window. 
+Switch from impressions to Share is GREAT 
+Major demos are / Adults 18+ / Adults 18-49 / and W and M in both Demos 
+Not skew too female… could plateau the general growth 
+Bio could survive as a digital only platform and LatAm Team could reach a deal to translate/curate the site for both LatAm and US Hispanic. 
+"Not step on each other toes” is not an established practice… this destroys x-promo intention.
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Completely avoid cancelled domestic series.
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **History**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     Transmedia and complete strategy is forward thinking and completely in tune with what is happening in the entertainment industry at a grander scale.
+There must be a much more complete plan that details how all this translates onto the business. 
+The audience / reach / money flow among all parts. 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **April 2013 / Buenos Aires**
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 18.0;text-align: left;">
+     **A&E**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Bio is back in action regarding original production… Crime, Paranormal, Dance Moms….
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Dance Moms a full… cultivar relación directa con Interntational
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Conseguir TODAS las presentaciones…. incluyendo la de Krishna sobre producción en Brasil
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * History Serie… Buscar temáticas que History no ha tocado por cualquier razón como "que no vende" que la competencia si ha tocado… Ejemplo Tabu y eventualmente History hizo Milagros muy recientemente. 
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * In order to increase the like/share ratio on Facebook the post must focus on something that if shared will say more about the sharer than the poster… must connect with what they stand for and that post be a symbol of that that screams their values and beliefs. Start from the positive and motivational.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Revivir Custom Garage para LatAm y meterlo en la caja de Counting Cars.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * O Infiltrado Mexico / Colombia
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Develop Scripted MiniSeries Event / 4hrs / A&E
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 21.0;text-align: left;">
+     **February 2012 / Miami**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     All Original Network defined primarily by our nonfiction franchises.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Real Life Content
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Strong Characters
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Authentic, Provocative, Emotional
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Not Dark, can be witty and sometimes even fun.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * No problem but solution focused.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Not irrelevant and meaningless.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     
+Vertical Schedule
+
+Monday / Strong Characters 
+Tuesday / Non Fiction Crime 
+Wednesday / Non Fiction Redemption 
+Thursday / Storage Wars night. 
+
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Blocks*
+ </span>
+ <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Mon-Thu*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+      
+Non Fiction 
+
+ </span> <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *Fri-Sun*
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+      
+Fiction, Dramas, movies, music, variety 
+
+
+ </span> <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **A&E Domestic Buckets
+Transactional**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Storage Wars
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Storage Wars: Texas
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Shipping Wars
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Barter Kings
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Crime & Justice**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * First 48
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * First 48: Missing Persons
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * After yhe first 48
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Beyond Scared Straight
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Cajun Justice
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **On the Job**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Dog: The Bounty Hunter
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Duck Dynasty
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Billy the Exterminator
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Parking Wars
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * American Hoggers
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Rambug
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Flipped Off
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Last Chance Driving
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Redemptive/Transformative**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Hoarders
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Intervention
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Monster in Laws
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Drama**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Break Out Kings
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * The Glades
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Longmire
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Coma
+
+ </span>
+ <span style="font-family: Helvetica-Bold; font-size: 15.0;text-align: left;">
+     **Misc**
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Gene Simmons / Family Jewels
+
+ </span>
+ <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *A&E Domestic Growth Opportunities*
+ </span>
+ <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * 100% Original Programming in Prime Time
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Increase # of premiere hours.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Build off of hit franchises.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Expand original programming in targeted time periods based on available audience.
+
+ </span>
+ <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *A&E Domestic Communication*
+ </span>
+ <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Daily interactions w/ research, programming, on-air promo, marketing & pr
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Cross departmental meetings
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Brainstorm ideas/stunts with on air promo & research
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * Partner with marketing to plan out year, line up priorities and get all departments on the same page.
+
+ </span>
+ <span style="font-family: Helvetica-Oblique; font-size: 14.0;text-align: left;">
+     *A&E Budget Timeline*
+ </span>
+ <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * 1 year Plan - Started in April, Binding.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * 3 Year Plan - started in summer, flexible, adjusts as year progresses.
+
+ </span> <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     * November-presented to Board for approval.
+ </span>

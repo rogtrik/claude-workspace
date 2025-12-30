@@ -1,0 +1,6 @@
+# The Birthday Cake / PGA Submission
+
+ <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     #foton/project/thebirthdaycake
+We got involved on this project during pre-production/production as some scenes had already been shot in LA but the main shoot had not happened yet. During this time we were involved in raising additional funds, final casting choices, scheduling and budgeting on the project as well as connected with Jimmy and Raul to support them creatively. During production we had a presence throughout the shoot with my team at Foton. I was not able to attend as our first child was born in October. Regardless, I was able to follow along through production thanks to online dailies and production meetings my team participated in. During post production I was very actively involved creatively in shaping the cut along with support that we provided for closing the production accounting and start ramping up the festival and sales strategy with Endeavor. We are currently still evolving the cut as well as getting to a good place with the music the Jimmy made for the film.
+ </span>

@@ -1,0 +1,3 @@
+# Approximately 55% of Sony’s marketing budget was spent on digital…
+
+Approximately 55% of Sony’s marketing budget was spent on digital for *Don’tBreathe,* which is more percent-wise than what was relegated to *Shallows* and *Sausage Party*. The P&A on Sony’s latest trio of summer cash cows — *Don’t Breathe, Shallows* and *Sausage Party* — range from the high teens to mid $20Ms per title.

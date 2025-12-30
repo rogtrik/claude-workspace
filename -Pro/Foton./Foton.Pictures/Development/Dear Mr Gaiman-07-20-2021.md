@@ -1,0 +1,10 @@
+# Dear Mr Gaiman
+
+ <span style="font-family: Helvetica; font-size: 14.0;text-align: left;">
+     #foton/pictures/projects/violentcases
+I have always loved stories that treat the concept of time and our perception of it and in full honesty, I had never read Violent Cases before. I was able to find a “new” hardcover edition and after an impactful and admittedly disorienting first read, I immediately followed it with listening to Mike and Colm share their vision for the film. 
+Mike walked us through the whole thing again with incredible detail as Dave McKean’s visuals spread past the edge of the page. Colm then shared his own earliest childhood memory, which applied through this lens, was technically the first movie he ever directed. It was like seeing the solution to a puzzle when the fascinating idea of the malleability of our memory and the shifts in perspective and identity caused by the passage of time can be so universally portrayed, and it all made for quite the double feature.
+This all made me remember the distinct moment in my life at which for some reason or another I started dreaming most of the time in a much more cinematic way. With aspect ratios and cuts and sometimes even interlace or reels running out. It also left me rummaging through my own memories, memories of my father, trying to piece together fragments of memories from that time. Stories that achieve this kind of permanence in our minds and possibly impact our perspectives are the kind of stories that I believe need to be read, seen and heard and that make us proud to be a part of them somehow.
+We could not be more honored at the possibility of getting to work with such incredible source material and of collaborating with such amazing artists in Cami, Mike, Colm and Ed to adapt Violent Cases as a Feature Film. I hope we can reach out again soon having put together a draft you truly enjoy. 
+
+ </span>
