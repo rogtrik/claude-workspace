@@ -1,3 +1,0 @@
-# https://deadline.com/2024/06/a24-new-investment-round-josh-kushner…
-
-[https://deadline.com/2024/06/a24-new-investment-round-josh-kushner-thrive-capital](https://deadline.com/2024/06/a24-new-investment-round-josh-kushner-thrive-capital-1235983300/#recipient_hashed=d2e43c5d416fc9b51a2a46cd360dbd5d9cad96979aed74b9e71ae3bed5959e65&recipient_salt=5344147e155ec5162390fa0aad583144d1620bbf33d7956b711519c9fc3e79b8)
